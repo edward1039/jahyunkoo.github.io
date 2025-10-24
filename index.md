@@ -1,4 +1,4 @@
-# [PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs]
+
 
 *Posted on October 22, 2025*
 
